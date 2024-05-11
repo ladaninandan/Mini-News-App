@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Nicole McCain",
+            "title": "'We will not negotiate with gangsters': Western Cape top cop takes hard line after 166 murders",
+            "description": "Lieutenant-General Thembisile Patekile said police had no intention of sitting down with warring gangs to negotiate a ceasefire.",
+            "url": "https://www.news24.com/news24/southafrica/news/we-will-not-negotiate-with-gangsters-western-cape-top-cop-takes-hard-line-after-166-murders-20230824",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3532/bbd1474c4f5b4f44b64fd01a961ed27a.jpg",
+            "publishedAt": "2023-08-24T07:11:19",
+            "content": "<ul><li>Gang-violence led to 166 murders between April and June.</li><li>It also attributed to 225 attempted murders.</li><li>Gangsterism was behind a mass murder, in which six people were killed.</l… [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "At least 3 dead, multiple wounded after mass shooting at California biker bar, police say - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOC8yMy91cy9vcmFuZ2UtY291bnR5LWNhbGlmb3JuaWEtYmFyLXNob290aW5nL2luZGV4Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-24T04:11:03+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News Philadelphia Staff, Nikki DeMentri, Dan Snyder",
+            "title": "Officer Mark Dial to be fired after Eddie Irizarry fatal police shooting",
+            "description": "Mark Dial failed to cooperate with Philadelphia PD's investigation into the fatal police shooting of Eddie Irizarry, Police Commissioner Danielle Outlaw said Wednesday.",
+            "url": "https://www.cbsnews.com/philadelphia/news/officer-mark-dial-fired-eddie-irizarry-police-shooting/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/23/e82af428-2177-4202-b157-4515d960f4f3/thumbnail/1200x630/7995ac77d30d027dc1781b2969b53b25/eddie-irizarry-and-mark-dial-philadelphia-police-officer-shooting-surveillance-video.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2",
+            "publishedAt": "2023-08-24T04:02:00+00:00",
+            "content": "Philly police officer to be fired after Eddie Irizarry fatal police shooting \r\nPhilly police officer to be fired after Eddie Irizarry fatal police shooting02:46\r\nPHILADELPHIA (CBS) -- Mark Dial, the … [+4974 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "‘Police action’ looms over video of F1 star",
+            "description": "Max Verstappen has reportedly risked police action after he appeared to break the speed limit while driving a $4.5 million Aston Martin.",
+            "url": "https://www.news.com.au/sport/motorsport/formula-one/max-verstappen-facing-police-action-as-clip-emerges-of-f1-world-champion-driving-45-million-aston-martin/news-story/00a12803466508dbaba1760ff6e46a24",
+            "urlToImage": "https://content.api.news/v3/images/bin/4f438ab51a0e13899a00da383b341a34",
+            "publishedAt": "2023-08-24T03:38:00Z",
+            "content": "Max Verstappen has reportedly risked police action after he appeared to break the speed limit while driving a $4.5 million Aston Martin.\r\nThe Red Bull Racing star was filmed driving his Aston Martin … [+2028 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Taylor Romine, Josh Campbell",
+            "title": "At least 3 people killed and several wounded in a mass shooting at Southern California biker bar, police say",
+            "description": "At least three people were killed and five others were wounded in a mass shooting at a biker bar in Orange County, California, Wednesday night, police said.",
+            "url": "https://www.cnn.com/2023/08/23/us/orange-county-california-bar-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230823201924-01-cooks-corner-shooting-0823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-24T03:28:22Z",
+            "content": "At least three people were killed and five others were wounded in a mass shooting at a biker bar in Orange County, California, Wednesday night, police said.\r\nThe suspected shooter has been killed and… [+942 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Wesley Stenzel",
+            "title": "Tony Hawk was fired as David Spade's stunt double for <em>Police Academy 4</em>",
+            "description": "There was only one problem: puberty.",
+            "url": "https://ew.com/celebrity/tony-hawk-fired-david-spades-stunt-double-police-academy-4/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C0%2C2000%2C1000&poi=%5B980%2C0%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F08%2F23%2FTony-Hawk-David-Spade-082323.jpg",
+            "publishedAt": "2023-08-24T02:51:45Z",
+            "content": "Tony Hawk has revealed one of his earliest career faceplants: a short stint as David Spade's stunt double in 1987's Police Academy 4: Citizens on Patrol. \r\nThe athlete discussed his brief tenure as S… [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lindsay Kornick",
+            "title": "Seattle starts hiring unarmed 'alternate response teams' to respond to 911 calls",
+            "description": "Seattle councilwoman Lisa Herbold announced the launching of new pilot program for unarmed crisis responders to be dispatched in the place of police officers.",
+            "url": "https://www.foxnews.com/media/seattle-starts-hiring-unarmed-alternate-response-teams-respond-911-calls",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/aistory.png",
+            "publishedAt": "2023-08-24T00:11:36Z",
+            "content": "911 calls in Seattle could soon be answered by unarmed \"crisis responders\" instead of police officers through a new \"alternate response team\" spearheaded by a Democratic council member.\r\nCouncilwoman… [+2908 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Police detective shot in western Washington, police say",
+            "description": "Police say a detective in Washington state was shot",
+            "url": "https://abcnews.go.com/US/wireStory/police-detective-shot-western-washington-police-102514436",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2023-08-23T23:12:12Z",
+            "content": "TACOMA, Wash. -- A police detective in western Washington state was shot on Wednesday, according to police. \r\nThe Tacoma Police Department said on X, formerly known as Twitter, that one of their dete… [+420 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Sky News Australia",
+            "title": "Massive fire engulfs four homes prompting police to declare emergency - Sky News Australia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy5za3luZXdzLmNvbS5hdS9hdXN0cmFsaWEtbmV3cy9wb2xpY2UtZXN0YWJsaXNoLWV4Y2x1c2lvbi16b25lLWFmdGVyLW1hc3NpdmUtZmlyZS1lbmd1bGZzLWZvdXItaG9tZXMtaW4td29vbGxvb25nYWJiYS1pbi1icmlzYmFuZXMtc291dGgvbmV3cy1zdG9yeS8xM2RiOGFkZGQ5YzRhMzRmYzc5MWIyODdiOWU4M2NkY9IBwwFodHRwczovL3d3dy5za3luZXdzLmNvbS5hdS9hdXN0cmFsaWEtbmV3cy9wb2xpY2UtZXN0YWJsaXNoLWV4Y2x1c2lvbi16b25lLWFmdGVyLW1hc3NpdmUtZmlyZS1lbmd1bGZzLWZvdXItaG9tZXMtaW4td29vbGxvb25nYWJiYS1pbi1icmlzYmFuZXMtc291dGgvbmV3cy1zdG9yeS8xM2RiOGFkZGQ5YzRhMzRmYzc5MWIyODdiOWU4M2NkYz9hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-23T21:27:49+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": "CP24",
+            "title": "Police warn of string of carjackings in Markham - CP24",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvdmlkZW8tc2hvd3MtYnJhemVuLW1hcmtoYW0tY2FyamFja2luZy0xLjY1MzE2MzTSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-23T19:53:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "Marco Margaritoff",
+            "title": "Police Search Former Home Of BTK Killer Dennis Rader For Evidence Of Missing Teen",
+            "description": "“The Osage County Sheriff’s Office is continuing to follow leads in unsolved missing persons and murder cases possibly related to BTK,” confirmed police.",
+            "url": "https://www.huffpost.com/entry/police-search-former-home-of-btk-killer_n_64e63222e4b0a04c2ed7ddf1",
+            "urlToImage": "https://img.huffingtonpost.com/asset/64e633692000003100f6052b.jpeg?cache=6hjySdFMrx&ops=1200_630",
+            "publishedAt": "2023-08-23T18:47:32Z",
+            "content": "The former home of convicted serial killer Dennis Rader, who christened himself the BTK Killer for his penchant of binding, torturing and killing people, is being searched by authorities in Park City… [+2182 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Nadine El-Bawab",
+            "title": "4 arrested in kidnapping of Michigan newborn twins",
+            "description": "Montana and Matthew Bridges were brought into a police precinct on Tuesday.",
+            "url": "https://abcnews.go.com/US/4-arrested-kidnapping-michigan-newborn-twins/story?id=102495434",
+            "urlToImage": "https://s.abcnews.com/images/US/twins-1-ht-bb-230823_1692812880699_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-08-23T18:20:35Z",
+            "content": "Four people have been arrested in connection with the kidnapping of newborn twins in Michigan.\r\nThe twins -- identified by police as Montana and Matthew Bridges -- were safely returned on Tuesday, ac… [+1123 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephen Sorace",
+            "title": "Police video shows 3rd grade teacher being arrested after allegedly being drunk on first day of school",
+            "description": "Kimberly Coates, 53, was allegedly at three times the legal blood alcohol limit while teaching students in Perkins, Oklahoma, authorities said.",
+            "url": "https://www.foxnews.com/us/police-video-shows-3rd-grade-teacher-being-arrested-allegedly-being-drunk-first-day-school",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/coates-arrest-thumb.jpg",
+            "publishedAt": "2023-08-23T17:32:43Z",
+            "content": "An Oklahoma teacher was arrested on the first day of elementary school last week after allegedly being drunk while teaching children, authorities said.\r\nKimberly Coates, 53, was confronted around 3:2… [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "AP",
+            "title": "Mississippi Cop Out Of Job After 10-Year-Old Jailed For Public Urination",
+            "description": "The Senatobia officer is “no longer employed” after taking part in the arrest and jailing of the boy after he urinated in a parking lot, the city’s police chief said.",
+            "url": "https://www.huffpost.com/entry/mississippi-cop-gone-after-boy-arrested-public-urination_n_64e629f4e4b0a04c2ed7dd05",
+            "urlToImage": "https://img.huffingtonpost.com/asset/64e62c052000006100f6052a.jpeg?cache=ZEOfeK7TDV&ops=1200_630",
+            "publishedAt": "2023-08-23T16:09:50Z",
+            "content": "SENATOBIA, Miss. (AP) A Mississippi police officer who took part in the arrest and jailing of a 10-year-old child who urinated in a parking lot is no longer employed, and other officers will be disci… [+1200 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessica Xing, Nouran Salahieh",
+            "title": "A 7-year-old boy was attacked by a bear in the backyard of his New York home, police say",
+            "description": "A 7-year-old boy was attacked by a bear in the backyard of his Westchester County, New York, home and taken to a hospital with non-life threatening injuries Tuesday morning, police said.",
+            "url": "https://www.cnn.com/2023/08/22/us/new-york-north-castle-child-bear-attack/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230822202802-new-york-north-castle-child-bear-attack.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-23T01:17:11Z",
+            "content": "A 7-year-old boy was attacked by a bear in the backyard of his Westchester County, New York, home and taken to a hospital with non-life threatening injuries Tuesday morning, police said.\r\nThe child w… [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Vingt-trois arrestations en marge de la finale de la Ligue Europa Conférence",
+            "description": "Les incidents ayant opposé des supporters de la Fiorentina et de West Ham en marge de la finale de la Ligue Europa Conference mercredi soir à Prague (2-1) ont conduit à 23 arrestations, selon un nouveau bilan communiqué jeudi par la police tchèque.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Vingt-trois-arrestations-en-marge-de-la-finale-de-la-ligue-europa-conference/1401496",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/vingt-deux-italiens-et-un-anglais-ont-ete-interpelles-en-marge-de-la-victoire-des-hammers-2-1-a-prec/1500000001795933/0:0,1998:1332-640-427-75/0f5fd.jpg",
+            "publishedAt": "2023-06-08T13:19:32+00:00",
+            "content": "La finale de Ligue Europa Conférence entre West Ham et la Fiorentina (2-1) aura beaucoup fait parler en dehors des terrains. Si le match a notamment été interrompu quelques minutes après des jets de … [+943 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Molly Hayes, Elizabeth Renzetti, Tavia Grant",
+            "title": "Many women who suffer from intimate partner violence don’t trust the police. Why are they the default response?",
+            "description": "Fearing discrimination, revictimization or arrests that do more harm than good, women in Canada often stay silent about their abuse. Other jurisdictions are trying to remove police from the equation",
+            "url": "https://www.theglobeandmail.com/canada/article-intimate-partner-violence-police-response/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/h3D0ZHZzlxFB18W4eUcmyacIGmk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/X4AS2XJHEVGLPICTE2LTJYPIIM.JPG",
+            "publishedAt": "2022-06-14T11:00:00Z",
+            "content": "Several times, Sue Caribou of Winnipeg would offer her couch to cousin Marie Morin when she needed a safe place away from her abusive boyfriend. He killed Ms. Morin two years ago and pleaded guilty t… [+11961 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "David Gilbert",
+            "title": "Minneapolis is Burning: Protesters Loot and Set Buildings On Fire to Protest Police Killing of George Floyd",
+            "description": "Police used tear gas and rubber bullets on protesters who gathered outside the precinct where Derek Chauvin, the officer who kneeled on Floyd's neck until he was unresponsive, worked until this week.",
+            "url": "https://www.vice.com/en_us/article/y3zd5x/minneapolis-is-burning-protesters-loot-and-set-buildings-on-fire-to-protest-police-killing-of-george-floyd",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecf88fdcb0f08009c8e79f7/lede/1590662200111-AP_20149167679642.jpeg?crop=1xw:0.8387xh;0xw,0.0189xh&resize=1200:*",
+            "publishedAt": "2020-05-28T11:20:17Z",
+            "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n Minneapolis burned on Wednesday night as protesters clashed with police for a second night following the death of George Floyd after… [+4576 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Tess Owen",
+            "title": "New Videos Appear to Undermine Police Account That George Floyd 'Resisted' Officers",
+            "description": "The videos show Floyd appearing to surrender before dying after his face was pressed into the street with an officer's knee on his neck.",
+            "url": "https://www.vice.com/en_us/article/4ayv4p/new-videos-appear-to-undermine-police-account-that-george-floyd-resisted-officers",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eceeffa501a5500975ebe7d/lede/1590620461411-Screen-Shot-2020-05-27-at-65737-PM.png?crop=1xw:0.8903601694915254xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T23:11:02Z",
+            "content": "Videos taken by bystanders show the moments leading up to the deadly arrest of George Floyd and appear to undermine Minneapolis polices account that he was uncooperative. \r\n Minneapolis cops said tha… [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Emma Ockerman",
+            "title": "The Cops Involved in George Floyd's Fatal Arrest Had Previous Violent Incidents on the Force",
+            "description": "Derek Chauvin, who kneeled on Floyd's neck for minutes, had been involved in at least two police shootings during his tenure.",
+            "url": "https://www.vice.com/en_us/article/wxq5gn/the-cops-involved-in-george-floyds-fatal-arrest-had-previous-violent-incidents-on-the-force",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ece94a6c19e170098c78783/lede/1590597223699-AP_20148017868432.jpeg?crop=1xw:0.8416666666666667xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T16:36:09Z",
+            "content": "Two of the four Minneapolis cops involved in George Floyds fatal arrest Monday including the one seen in a viral video kneeling on the black mans neck for several minutes as he repeatedly cried out t… [+4196 chars]"
+        }
+    ]
+}
